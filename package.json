@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Sudhakarkks/cicd_repo#readme",
   "devDependencies": {
-    "@playwright/test": "^1.54.2"
+    "@playwright/test": "^1.54.2",
+    "@types/node": "^24.3.0"
   }
 }
