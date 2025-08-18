@@ -20,7 +20,7 @@ jobs:
           node-version: 18
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci
 
       # Optional step (only if @playwright/test is missing in package.json)
       - name: Ensure Playwright is installed
