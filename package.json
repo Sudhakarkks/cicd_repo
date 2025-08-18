@@ -1,0 +1,24 @@
+{
+  "name": "cicd_repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sudhakarkks/cicd_repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Sudhakarkks/cicd_repo/issues"
+  },
+  "homepage": "https://github.com/Sudhakarkks/cicd_repo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.54.2"
+  }
+}
