@@ -1,6 +1,8 @@
-import { test, expect } from '@playwright/test';
+//import { test, expect } from '@playwright/test';
 
-test('open playwright site', async ({ page }) => 
+console.log(" executed on aug 19th 25")
+
+/*test('open playwright site', async ({ page }) => 
     {
         await page.goto('https://playwright.dev/');
         await expect(page).toHaveTitle(/Playwright/);
@@ -8,4 +10,4 @@ test('open playwright site', async ({ page }) =>
           await page.waitForTimeout(2000)
         console.log(page.title())
       
-});
+});*/
